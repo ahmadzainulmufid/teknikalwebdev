@@ -46,7 +46,7 @@ Ikuti panduan berikut untuk memasang projek ini di lingkungan lokal (_local deve
 Clone projek ini dari repositori GitHub Anda:
 
 ```bash
-git clone <url-repository-github-anda>
+git clone https://github.com/ahmadzainulmufid/teknikalwebdev.git
 cd teknikalwebdev
 ```
 
